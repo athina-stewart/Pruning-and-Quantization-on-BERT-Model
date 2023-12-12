@@ -1,6 +1,6 @@
 Souvik Dey sd5223<br>
 Athina Stewart as1896<br>
-Intoduction to Machine Learning || CSCI 635<br>
+Introduction to Machine Learning || CSCI 635<br>
 Code for Final Project
 
 # Pruning-and-Quantization-on-BERT-Model
